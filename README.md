@@ -6,11 +6,11 @@ This repository contains code for Market Segmentation using various machine lear
 ## Dataset
 The dataset "Indian Automobile Buying Behaviour Study 1.0.csv" contains the following columns:
 
-Age: Age of the consumer
-Gender: Gender of the consumer
-Occupation: Occupation of the consumer
-Income: Income level of the consumer
-Education: Education level of the consumer
-City: City of residence of the consumer
-Car Segment: Segment of the car the consumer is interested in
-Buying Behavior: Buying behavior of the consumer (target variable)
+1. Age: Age of the consumer
+2. Gender: Gender of the consumer
+3. Occupation: Occupation of the consumer
+4. Income: Income level of the consumer
+5. Education: Education level of the consumer
+6. City: City of residence of the consumer
+7. Car Segment: Segment of the car the consumer is interested in
+8. Buying Behavior: Buying behavior of the consumer (target variable)
